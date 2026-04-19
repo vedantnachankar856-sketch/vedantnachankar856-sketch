@@ -72,7 +72,6 @@
 <!-- ANIMATED TOOLS GIF -->
 <div align="center">
 https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif
-
 </div>
 
 <div align="center">
