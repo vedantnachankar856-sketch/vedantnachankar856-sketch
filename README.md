@@ -34,7 +34,7 @@
 - 📊 Passionate **Data Analyst** turning raw numbers into powerful stories
 - 🤖 Building **ML models** — Sales, Stock, Housing & Insurance predictions
 - 🚀 Developing interactive **Streamlit apps** for real-world data problems
-- 🎓 **B.Tech** student from **Pune, India 🇮🇳**
+- 🎓 **B.Tech** student from **Sant Gadge Baba Amravati University, India 🇮🇳**
 - 💼 Reach me at: **[LinkedIn](https://www.linkedin.com/in/vedant-nachankar-6396783b1)**
 
 ---
