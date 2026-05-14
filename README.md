@@ -14,7 +14,7 @@
 <!-- CUSTOM HEADER — generate yours free at: https://leviarista.github.io/github-profile-header-generator/ -->
 <!-- Replace the image below with your own custom header image saved in your repo -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0288d1&height=200&section=header&text=Vedant%20Nachankar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Streamlit%20Dev&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0288d1&height=200&section=header&text=Vedant%20Nachankar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20EXTC%20Engineer%20%7C%20Streamlit%20Dev&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- SECOND TYPING — ROLES -->
