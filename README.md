@@ -20,7 +20,7 @@
 <!-- SECOND TYPING — ROLES -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;ML+Engineer;Python+Developer;Streamlit+App+Builder;SQL+%7C+Excel+Expert&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45)](https://github.com/vedantnachankar856-sketch)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;ENTC+Engineer;Python;Streamlit+App+Builder;SQL+%7C+Excel+Expert&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45)](https://github.com/vedantnachankar856-sketch)
 
 </div>
 
